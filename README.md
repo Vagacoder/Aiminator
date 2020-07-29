@@ -2,7 +2,7 @@
 [![Aiminator](http://img.shields.io/badge/Aiminator-Unity2d-darkgrey)](https://github.com/Vagacoder/Aiminator/)
 ![Aiminator](http://img.shields.io/badge/Aiminator-WebGL-darkgrey)
 ![Aiminator](http://img.shields.io/badge/Aiminator-Freeware-darkgrey)
-![Aiminator](http://img.shields.io/badge/DuckHunt-Prototype-red)
+![Aiminator](http://img.shields.io/badge/Aiminator-Prototype-red)
 
 ## Introduction
 
@@ -14,7 +14,7 @@ Aiminator is a 2D FPS training software, made using Unity Engine. This is an exp
 
 ## Playable Link
 
-[Aiminator]()
+[Aiminator](https://aiminator-unity.firebaseapp.com/)
 
 ## Log
 
@@ -59,3 +59,5 @@ Another one is pistol firing animation. Sprites of pistol are from Duke numkem 3
 
 Update to v0.3 DuckHunt
 1) Separate DuckHunt from Aiminator to [independent repository](https://github.com/Vagacoder/DuckHunt/).
+2) Published on Firebase.
+
